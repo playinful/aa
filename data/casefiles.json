@@ -1,0 +1,967 @@
+[
+  [
+    "350455858066620417",
+    {
+      "suspects": [
+        [
+          "188778015101026305",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "213466096718708737",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "350455550762418179",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "371308243416514570",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "375767693422362625",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "394555311165276161",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "395809330311725057",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "404878813592551424",
+          {
+            "name": null,
+            "description": "The head judge who presides over all cases. Not to be crossed.",
+            "gender": "Agender",
+            "age": {},
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "404883256169857025",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "404885874875301889",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "445739212487000065",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ]
+      ],
+      "evidence": [
+        [
+          "12",
+          {
+            "name": "FUCK",
+            "description": "SHIT",
+            "file": null,
+            "image": "https://raw.githubusercontent.com/playinful/aa/master/evidence/114.png"
+          }
+        ],
+        [
+          "15",
+          {
+            "name": "aaaaa",
+            "description": "fjai",
+            "file": null,
+            "image": "https://raw.githubusercontent.com/playinful/aa/master/evidence/114.png"
+          }
+        ],
+        [
+          "16",
+          {
+            "name": "NAI",
+            "description": "afrai",
+            "file": null,
+            "image": "https://raw.githubusercontent.com/playinful/aa/master/evidence/114.png"
+          }
+        ]
+      ],
+      "attorney": "350455858066620417",
+      "evidenceImgRef": [
+        "r:350455858066620417-0"
+      ]
+    }
+  ],
+  [
+    "359491624541224960",
+    {
+      "suspects": [
+        [
+          "96405325044793344",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "125000943648374784",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "183361825729937408",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "188778015101026305",
+          {
+            "name": "Klaus",
+            "description": "A fun, nice bot person who made Udgey and FortuneBot.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "195244363339530240",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "213466096718708737",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "216242989041713152",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "247134460024193027",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "247262554072547338",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "247852652019318795",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "259932651417370624",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "270198738570444801",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "279406195117391873",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "280497242714931202",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "297555051470389248",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "314478219883708417",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "321065853145579520",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "321412593048748032",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "324456377110233091",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "324710695344275456",
+          {
+            "name": null,
+            "description": "get the fuck away from me and my family before I terrorize you by taking 5 shits a day on your lawn, making your house the most disgusting and most ridiculed home in your neighborhood, the children will laugh at you until you don't want to go outside or show your face because theyll see you and find you and make fun of how much shit is on your fucking lawn.",
+            "gender": "Bitch",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "328199798945611788",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "331265419304501250",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "333715032070422530",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "356065937318871041",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "359487408670113793",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "367399138767273987",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "371308243416514570",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "388589618699960320",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "404878813592551424",
+          {
+            "name": null,
+            "description": "The head judge who presides over all cases. Not to be crossed.",
+            "gender": "Agender",
+            "age": {},
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "439205512425504771",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "445739212487000065",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ]
+      ],
+      "evidence": [],
+      "attorney": "359491624541224960"
+    }
+  ],
+  [
+    "431832568170676224",
+    {
+      "suspects": [
+        [
+          "83212284637216768",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "89729271873966080",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "104717799926034432",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "143445176214487041",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "153953672051556352",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "165665944167907328",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "166010704514646017",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "166248089269698560",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "166253782575874048",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "168888605706551296",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "172002275412279296",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "182304966952615936",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "184405311681986560",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "188778015101026305",
+          {
+            "name": null,
+            "description": "A nice person who makes bots for fun. Creator of FortuneBot and Udgey.",
+            "gender": "M",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "192796310280077312",
+          {
+            "name": null,
+            "description": "The main suspect of this case, accused of changing the Shelter's name and icon, directly going against the rules posted in announcements.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": "https://raw.githubusercontent.com/playinful/aa/master/profiles/DR_NAGITO_KOMAEDA.png",
+            "health": 100
+          }
+        ],
+        [
+          "198648829522739202",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "199945030750830593",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "203808759678631937",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "213103915070259200",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "272086608591716353",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "289205962009608192",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "294114147715776516",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "320322622397349900",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "350455550762418179",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "359004624834789378",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "365640191014076428",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "367148921388138509",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "404878813592551424",
+          {
+            "name": null,
+            "description": "The head judge who presides over all cases. Not to be crossed.",
+            "gender": "Agender",
+            "age": {},
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "430095732402552832",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "439205512425504771",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ],
+        [
+          "445739212487000065",
+          {
+            "name": null,
+            "description": "Not much is known about this person.",
+            "gender": "??",
+            "age": "??",
+            "alias": null,
+            "image": null,
+            "health": 100
+          }
+        ]
+      ],
+      "evidence": [
+        [
+          "11",
+          {
+            "name": "Sans",
+            "description": "The skeleton bro who's gonna dunk on you.",
+            "file": "https://cdn",
+            "image": "https://raw.githubusercontent.com/playinful/aa/master/evidence/114.png"
+          }
+        ],
+        [
+          "13",
+          {
+            "name": "Wahbucket's \"Mistake\"",
+            "description": "Yesterday, at around 4:45 PM, the server's name and icon were changed to \"The Epic Shelter\" and a picture of a penguin, respectively. Evidence would dictate that this was the fault of one <@289205962009608192>.",
+            "file": "https://cdn.discordapp.com/attachments/431832568170676226/448202568166932500/unknown.png",
+            "image": "https://cdn.discordapp.com/attachments/431832568170676226/448202602862215178/unknown.png"
+          }
+        ],
+        [
+          "14",
+          {
+            "name": "Audit Log",
+            "description": "Wahbucket made changes to the Shelter first, followed by Thun shortly after.",
+            "file": "https://cdn.discordapp.com/attachments/431832568170676226/448206922290561025/unknown.png",
+            "image": "https://cdn.discordapp.com/attachments/431832568170676226/448207293398515713/unknown.png"
+          }
+        ]
+      ],
+      "attorney": "431832568170676224",
+      "evidenceImgRef": [
+        "r:431832568170676224-0"
+      ]
+    }
+  ]
+]
